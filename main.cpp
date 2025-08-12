@@ -7,4 +7,5 @@ int main()
     constexpr int y=33;
     constexpr double z=(x+71)%(y+7);
     cout<<z<<endl;
+    return 0;
 }
