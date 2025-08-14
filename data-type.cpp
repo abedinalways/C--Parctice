@@ -15,4 +15,6 @@ int main()
   auto name="shahin";
   float number =9.90F;
   cout<<number<<endl;
+
+  return 0;
 }
